@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../car_showcase_public"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "car_showcase"
+	}
+}
